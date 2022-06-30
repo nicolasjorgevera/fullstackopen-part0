@@ -1,0 +1,5 @@
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+Server-->Browser: note creation confirm message in payload JSON
+note over Browser: add new note over the website
+
+
